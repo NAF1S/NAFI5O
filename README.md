@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NAFI5O
 - 👀 I’m interested in Compititive Programming
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Currently studying in University of Dhaka
+- 📫 Email:lokmansharif000@gmail.com
 
 <!---
 NAFI5O/NAFI5O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
