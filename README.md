@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NAFI5O
+- 👋 Hi, I’m Lokman sharif
 - 👀 I’m interested in Compititive Programming
-- 🌱 I’m currently learning c++
-- 💞️ Currently studying in University of Dhaka
+- 🌱 I’m currently learning c++,javascript
+- 💞️ Currently studying at University of Dhaka
 - 📫 Email:lokmansharif000@gmail.com
 
 <!---
